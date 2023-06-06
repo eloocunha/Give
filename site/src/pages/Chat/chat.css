@@ -1,0 +1,23 @@
+label {
+    background-color: transparent;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+label:hover{
+    background-color: transparent;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+}
+
+div::-webkit-scrollbar{
+    display: none;
+}

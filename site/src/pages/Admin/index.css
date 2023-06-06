@@ -1,0 +1,76 @@
+.App {
+    text-align: left;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  #list-container #bg{
+    width: 1000px;
+    height: 200px;
+    position: absolute;
+    top: -30px;
+    left: 0;
+   
+ }
+
+ #containerAdmin{
+  margin-top: 5%;
+  display: flex;
+  width: 100vw;
+ }
+ #left{
+  width: 15%;
+  margin-right: 8%;
+  border-right: 2px solid #AAABAE;
+  margin-top: -5%;
+  background-color: #dddee4;
+ }
+
+ .accordionDiv{
+  
+  padding: 40px 30px;
+  background-color: white;
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5%;
+ }
+
+ #accordionItem{
+  height: 60px;
+  margin-bottom: 5%;
+ }
+
+ #accordion{
+  width: 100%;
+ }
+ #rigth{
+  width:60%
+ }
+ #containerA{
+  background-color: #F0F2F5;
+ }
+
+ #navLeft{
+  width: 30%;
+  margin-top: 31%;
+  margin-left: 15%;
+ 
+ }
+#nav{
+  background-color: #6A5FA8 !important;
+  color: white !important;
+}
+ .graphic{
+   background-color: #fff;
+   width: 500px;
+   height: 400px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-left: 2%;
+   border-radius: 10px;
+   margin-bottom: 2%;
+   flex-direction: column;
+ }
